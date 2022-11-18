@@ -5,9 +5,9 @@
 <h3>💻 I also do Open Source</h3>
 
 <p align="center">
-  <a href="https://dev-scion.tech"><img src="https://raw.githubusercontent.com/zeeshanali-k/zeeshanali-k/master/assets/website.png" height="50" width="130" alt="Website"></a>
-	<a href="https://www.youtube.com/@devscion"><img src="https://raw.githubusercontent.com/zeeshanali-k/zeeshanali-k/master/assets/youtube.png" height="50" width="130" alt="YouTube"></a>
-  <a href="https://zeeshan-ali.medium.com"><img src="https://raw.githubusercontent.com/zeeshanali-k/zeeshanali-k/master/assets/medium.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://dev-scion.tech" target="_blank"><img src="https://raw.githubusercontent.com/zeeshanali-k/zeeshanali-k/master/assets/website.png" height="50" width="130" alt="Website"></a>
+	<a href="https://www.youtube.com/@devscion" target="_blank"><img src="https://raw.githubusercontent.com/zeeshanali-k/zeeshanali-k/master/assets/youtube.png" height="50" width="130" alt="YouTube"></a>
+  <a href="https://zeeshan-ali.medium.com" target="_blank"><img src="https://raw.githubusercontent.com/zeeshanali-k/zeeshanali-k/master/assets/medium.png" height="50" width="130" alt="Medium"></a>
   
 	
 </p>
