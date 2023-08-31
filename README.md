@@ -1,8 +1,8 @@
-<h2><b>Hi!👋 I am Zeeshan, Fullstack Mobile Apps Developer.</b></h2>
+<h2><b>Hi!👋 I am Zeeshan, Fullstack Mobile Apps Developer 📲</b></h2>
 
-<h3>I work with Native Android, KMM and Flutter.</h3>
-<h3>I use <b>Laravel</b> for backend development.</h3>
-<h3>I also do Open Source</h3>
+<h4>📱 I work with Native Android, KMM and Flutter.📱 </h4>
+<h4>🌐 I use <b>Laravel</b> for backend development. 🌐 </h4>
+<h4>💻 I also do Open Source 💻 </h4>
 
 
 <h3 align="left">Connect with me:</h3>
