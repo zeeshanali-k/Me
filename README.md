@@ -1,7 +1,6 @@
 <h2><b>Hi!👋 I am Zeeshan, Fullstack Mobile Apps Developer 📲</b></h2>
 
 <h4>📱 I work with Native Android, KMM and Flutter.📱 </h4>
-<h4>🌐 I use <b>Laravel</b> for backend development. 🌐 </h4>
 <h4>💻 I also do Open Source 💻 </h4>
 
 
